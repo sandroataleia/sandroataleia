@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Sandro Pereira
 
-<!--
-**sandroataleia/sandroataleia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista de Sistemas** com mais de 10 anos de experiência em desenvolvimento web e integrações com ERP.
 
-Here are some ideas to get you started:
+🔧 **Stack atual**:
+- PHP (Laravel, CodeIgniter)
+- SQL Server, MySQL
+- REST APIs, Integrações SOAP/JSON
+- HTML, CSS, jQuery, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projetos em destaque**:
+- Sistemas internos administrativos
+- Integrações com ERP Senior
+- Automatizações de rotinas financeiras e comerciais
+
+📫 **Vamos conversar?**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sandropdev/)
+
