@@ -4,9 +4,10 @@
 
 🔧 **Stack atual**:
 - PHP (Laravel, CodeIgniter)
-- SQL Server, MySQL
+- SQL Server, MySQL, Postgres
 - REST APIs, Integrações SOAP/JSON
 - HTML, CSS, jQuery, Bootstrap
+- Javascript, Vue js, React js, Tailwindcss
 
 📂 **Projetos em destaque**:
 - Sistemas internos administrativos
