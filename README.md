@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Sandro Pereira
+# 👋 Olá! Eu sou a Thaine Dias Oliveira
 
 💻 **Analista de Sistemas** com mais de 10 anos de experiência em desenvolvimento web e integrações com ERP.
 
